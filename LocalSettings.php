@@ -139,7 +139,7 @@ $wgGroupPermissions['*']['edit'] = false;
 $wgGroupPermissions['*']['read'] = false;
 
 # End of automatically generated settings.
-# Add more configuration options below
+# Add more configuration options below.
 
 require_once("$IP/extensions/Renameuser/Renameuser.php");
 require_once("$IP/extensions/ParserFunctions/ParserFunctions.php");
